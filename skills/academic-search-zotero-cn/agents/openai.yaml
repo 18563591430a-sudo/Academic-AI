@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic-search-Zotero--CN"
+  short_description: "CNKI/web literature search to Zotero with Chinese notes"
+  default_prompt: "Use $academic-search-zotero-cn to search recent papers on a topic, import them into Zotero, add abstracts and Chinese notes, and draft an introduction-style synthesis."
